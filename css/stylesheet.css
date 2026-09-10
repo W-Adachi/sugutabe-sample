@@ -131,7 +131,7 @@ header{
 .wrap-about{
     width: 100%;
     background-color: 68603E;
-    padding: 20px;
+    padding: 20px 0;
 }
 .txt-about{
     text-align: center;
@@ -145,7 +145,7 @@ header{
 .wrap-reason{
     width: 100%;
     background-color: black;
-    padding: 20px;
+    padding: 20px 0;
     background-color: rgba(104, 96, 62, 0.1);
     padding-bottom: 50px;
 }
@@ -190,13 +190,13 @@ header{
     .reason{
         width: 80%;
         font-size: 19px;
-        padding: 10px;
+        padding: 10px 0;
         width: 300px;
     }
 }
 .wrap-set{
     width: 100%;
-    padding: 20px;
+    padding: 20px 0;
     text-align: center;
 }
 .txt-set{
@@ -232,7 +232,7 @@ header{
 .wrap-faq{
     width: 100%;
     background-color: rgba(104, 96, 62, 0.15);
-    padding: 20px;
+    padding: 20px 0;
     text-align: left;
     padding-bottom: 40px;
 }
